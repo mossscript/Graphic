@@ -1,6 +1,7 @@
+/*** Graphic.js alpha ***/
 class Graphic {
    constructor() {
-      this.version = "1";
+      this.version = "alpha";
       this.w = 1000;
       this.h = 1000;
       this.cx = this.w / 2;
