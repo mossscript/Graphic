@@ -1,1 +1,1 @@
-# Graphic.js - v alpha
+# Graphic.js - v0.01
